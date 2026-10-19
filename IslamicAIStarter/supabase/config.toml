@@ -1,0 +1,2 @@
+[functions.islamic-chat]
+verify_jwt = false
